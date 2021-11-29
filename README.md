@@ -1,7 +1,7 @@
 # practice-cpp
 Learning C++ with some practice programs
 
-<hr>
+<br>
 
 Feel free to try these programs out, this is the progression:
 
