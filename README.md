@@ -1,8 +1,9 @@
 # practice-cpp
 Learning C++ with some practice programs
 
+<hr>
 
-If you would like to try them out, this is the order:
+Feel free to try these programs out, this is the progression:
 
 - [hello_world.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/hello_world.cpp)
 - [hello_world_namespace.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/hello_world_namespace.cpp)
