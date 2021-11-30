@@ -3,7 +3,7 @@
 <br>
 
 - C++ is extremely fast
-- Adds OOPs to C
+- Adds OOP to C
 - Allows for memory management
 
 <br>
@@ -19,5 +19,5 @@ int main(){
 
 - Include statement is like an import
 - iostream is a built in library providing IO capabilities
-- std is the namespace that the cout function belongs to
+- std is the namespace that containts the cout function
 - cout is like print
