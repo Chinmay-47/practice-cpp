@@ -1,6 +1,6 @@
 # Complete Notes
 
-Notes for all programs in order.
+Notes for all programs in order of progression.
 
 <br>
 <hr>
