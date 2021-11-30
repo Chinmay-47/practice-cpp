@@ -41,7 +41,7 @@ int main()
     cout << "((a == b) && (a > b)) = " << ((a == b) && (a > b)) << endl; // Logical AND
     cout << "((a > b) && (b < a)) = " << ((a > b) && (b < a)) << endl;
     cout << "((a == b) || (b < a)) = " << ((a == b) || (b < a)) << endl; // Logical OR
-    cout << "(!(a == b)) = " << (!(a == b)) << endl; // Logical Not
+    cout << "(!(a == b)) = " << (!(a == b)) << endl; // Logical NOT
     cout << endl;
     
     return 0;
