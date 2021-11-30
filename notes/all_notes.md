@@ -1,6 +1,10 @@
 # Complete Notes
 
+Notes for all programs in order.
+
+<br>
 <hr>
+<br>
 
 ### First Program
 
@@ -26,7 +30,9 @@ int main(){
 - std is the namespace that containts the cout function
 - cout is like print
 
+<br>
 <hr>
+<br>
 
 ### Namespace
 
@@ -60,7 +66,9 @@ using namespace std;
 cout << "Hello World!";
 ```
 
+<br>
 <hr>
+<br>
 
 ### Variables and Comments
 
