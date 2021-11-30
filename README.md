@@ -15,3 +15,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Variable Scope | [variable_scope.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/variable_scope.cpp) | [variable_scope.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/variable_scope.md) |
 | Basic I/O | [basic_IO.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/basic_IO.cpp) | [basic_IO.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/basic_IO.md) |
 | Header files and Operators | [headers_operators.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/headers_operators.cpp) | [headers_operators.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/headers_operators.md) |
+| Reference Variables | [reference_variables.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/reference_variables.cpp) | [reference_variables.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/reference_variables.md) |
