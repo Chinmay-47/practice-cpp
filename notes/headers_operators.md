@@ -1,3 +1,14 @@
+### Header files and Operators
+
+<br>
+
+- Types of header files:
+    - System header files - Shipped with compiler
+    - User defined header files - Defined by user
+
+Check out cppreference in google to know more on system header files
+
+```c++
 #include<iostream>
 using namespace std;
 
@@ -36,6 +47,7 @@ int main()
     cout << "a <= b = " << (a == b) << endl;
     cout << endl;
 
+
     // Logical Operators
     cout << "a = " << a << ", b = " << b << endl;
     cout << "((a == b) && (a > b)) = " << ((a == b) && (a > b)) << endl; // Logical AND
@@ -46,3 +58,7 @@ int main()
     
     return 0;
 }
+```
+
+- "endl" operator is the same as writing "\n"
+- C++ provides assignment, arithmetic, logical, comparison and bitwise operators
