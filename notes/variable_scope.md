@@ -14,6 +14,8 @@ void print_global(){
 
 int main(){
     int global_scope = 17;
+
+    cout << "Variable global_scope has value: " << :: global_scope << "\n";
     cout << "Variable global_scope has value: " << global_scope << "\n";
     print_global();
     return 0;
@@ -25,4 +27,4 @@ int main(){
 - print_global is a function that prints the value of the global variable
 - Having a variable inside a function (local variable or local scope) with the same name as a global variable does not affect the value of the global variable
 - Variable with same name in C++ may mean different things based on the scope
-
+- Global variables with same name as local variables can still be used locally by using the scope resolution operator "::" before the variable name
