@@ -1,9 +1,11 @@
 # practice-cpp
-Learning C++ with some practice programs
+Learning C++ with some practice programs.
+
+Notes that I made while learning can be found [here](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/all_notes.md) as a single markdown.
 
 <br>
 
-Feel free to try these programs out, this is the progression:
+Feel free to try these programs out or read my notes about the topics:
 
 |  Topic  |  Code  |  Notes  |
 |---------------|------------|-------------|
