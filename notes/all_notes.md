@@ -453,7 +453,7 @@ int main()
 - We can use the switch case statement when there are multiple conditions
 - We can avoid a long else if ladder by using this
 - We enter the variable being compared inside the switch statement
-- We perform tasks based on comparisons to the variable inside switch using case statements
+- We perform tasks based on comparisons to the variable inside switch, using case statements
 - We define a default case to execute if all other comparisons fail
 - If we do not "break" inside each case, all cases get executed
 
