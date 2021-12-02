@@ -19,3 +19,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Typecasting | [typecasting.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/typecasting.cpp) | [typecasting.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/typecasting.md) |
 | Constants and Manipulators | [constants_manipulators.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/constants_manipulators.cpp) | [constants_manipulators.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/constants_manipulators.md) |
 | Control Structures | [control_structures.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/control_structures.cpp) | [control_structures.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/control_structures.md) |
+| Loops | [loops.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/loops.cpp) | [loops.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/loops.md) |
