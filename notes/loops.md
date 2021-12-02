@@ -18,8 +18,8 @@ int main()
     return 0;
 }
 ```
-- For loops take a initial value, a condition and an operation
-- Performs the actions inside loop as well as the declared operation, as long as the condition specified is true
+- For loops take an initial value, a condition and an operation
+- Performs the actions as well as the declared operation inside the loop, as long as the condition specified is true
 
 <br>
 
@@ -43,7 +43,7 @@ int main()
 ```
 - While loop performs actions only if condition is true
 - The operation has to be defined inside the loop
-- Easy to produce infinite loops if operation never breaks the condition or an operation is not defined
+- Easy to produce infinite loops if the operation never breaks the condition or if an operation is not defined
 
 <br>
 
