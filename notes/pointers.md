@@ -1,0 +1,3 @@
+- Pointers are data types holding addresses of other data types
+- '&' is an operator that gives the address of a variable
+-  '*' is is an operator to de-reference a pointer
