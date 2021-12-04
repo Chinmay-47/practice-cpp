@@ -21,3 +21,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Control Structures | [control_structures.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/control_structures.cpp) | [control_structures.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/control_structures.md) |
 | Loops | [loops.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/loops.cpp) | [loops.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/loops.md) |
 | Break and Continue Statements | [break_continue.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/break_continue.cpp) | [break_continue.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/break_continue.md) |
+| Pointers | [pointers.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/pointers.cpp) | [pointers.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/pointers.md) |
