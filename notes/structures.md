@@ -54,7 +54,7 @@ int main(){
 - Can be a collection of different data types
 - Can have multiple instances of a structure
 - It is like a dataclass in Python
-- Can be instantiated by using "struct structure_name instance_name"
+- Can be instantiated by using "struct structure_name instance_name;"
 - We can avoid writing struct during every instantiation by using typedef
 - Typedef kind of gives an alias to your custom data type
-- By adding typedef we can instantiate a structure using just "alias instance_name"
+- By adding typedef we can instantiate a structure using just "alias instance_name;"
