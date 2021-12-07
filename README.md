@@ -23,3 +23,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Break and Continue Statements | [break_continue.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/break_continue.cpp) | [break_continue.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/break_continue.md) |
 | Pointers | [pointers.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/pointers.cpp) | [pointers.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/pointers.md) |
 | Arrays | [arrays.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/arrays.cpp) | [arrays.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/arrays.md) |
+| Pointer Arithmetic | [pointer_arithmetic.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/pointer_arithmetic.cpp) | [pointer_arithmetic.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/pointer_arithmetic.md) |
