@@ -28,3 +28,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Unions | [unions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/unions.cpp)| [unions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/unions.md) |
 | Enums | [enums.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/enums.cpp) | [enums.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/enums.md) |
 | Functions | [functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/functions.cpp) | [functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/functions.md) |
+| Function Prototypes | [function_prototypes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_prototypes.cpp) | [function_prototypes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_prototypes.md) |
