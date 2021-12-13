@@ -29,3 +29,4 @@ Feel free to try these programs out or read my notes about the topics:
 | Enums | [enums.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/enums.cpp) | [enums.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/enums.md) |
 | Functions | [functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/functions.cpp) | [functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/functions.md) |
 | Function Prototypes | [function_prototypes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_prototypes.cpp) | [function_prototypes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_prototypes.md) |
+| Call by Reference | [call_by_reference.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/call_by_reference.cpp) | [call_by_reference.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/call_by_reference.md) |
