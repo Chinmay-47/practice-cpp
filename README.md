@@ -5,7 +5,6 @@ A compilation of all the notes that I made while learning can be found [here](ht
 
 <br>
 <hr>
-<br>
 
 ## Table of Contents
 
@@ -42,7 +41,6 @@ Feel free to try these programs out or read my notes about the topics:
 
 <br>
 <hr>
-<br>
 
 ## Resources
 A big thanks and a huge shoutout to these resources, and I recommend checking them out:
