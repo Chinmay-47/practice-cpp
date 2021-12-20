@@ -39,7 +39,7 @@ Feel free to try these programs out or read my notes about the topics:
 | Function Overloading | [function_overloading.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_overloading.cpp) |[function_overloading.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_overloading.md) |
 
 
-<br>
+
 <hr>
 
 ## Resources
