@@ -1,7 +1,7 @@
 # practice-cpp
 Learning C++ with some practice programs.
 
-Notes that I made while learning can be found [here](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/all_notes.md) as a single markdown.
+A compilation of all the notes that I made while learning can be found [here](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/all_notes.md) as a markdown.
 
 <br>
 
