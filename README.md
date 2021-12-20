@@ -4,7 +4,6 @@ Learning C++ with some practice programs.
 A compilation of all the notes that I made while learning can be found [here](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/all_notes.md) as a markdown.
 
 <hr>
-<br>
 
 ## Table of Contents
 
@@ -40,7 +39,6 @@ Feel free to try these programs out or read my notes about the topics:
 
 
 <hr>
-<br>
 
 ## Resources
 A big thanks to these resources and I recommend checking them out:
