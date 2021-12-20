@@ -3,7 +3,9 @@ Learning C++ with some practice programs.
 
 A compilation of all the notes that I made while learning can be found [here](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/all_notes.md) as a markdown.
 
+<br>
 <hr>
+<br>
 
 ## Table of Contents
 
@@ -38,10 +40,12 @@ Feel free to try these programs out or read my notes about the topics:
 | Function Overloading | [function_overloading.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_overloading.cpp) |[function_overloading.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_overloading.md) |
 
 
+<br>
 <hr>
+<br>
 
 ## Resources
-A big thanks to these resources and I recommend checking them out:
+A big thanks and a huge shoutout to these resources, and I recommend checking them out:
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
