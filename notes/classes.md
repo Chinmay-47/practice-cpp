@@ -41,6 +41,8 @@ int main(){
 }
 ```
 
+- Classes in C++ are essentially extensions of structures
+- Structures cannot have methods/functions
 - We cannot protect access to data in Structures, data can be accessed from anywhere
 - We can use classes to combine data and behaviour (functions/methods)
 - We can use private and public specifiers to control access to variables and methods
