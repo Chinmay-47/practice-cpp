@@ -47,5 +47,5 @@ int main(){
 - We can use classes to combine data and behaviour (functions/methods)
 - We can use private and public specifiers to control access to variables and methods
 - We do not always need to define methods inside classes, we can simply declare them like function prototypes
-- C++ allows us to define functions/methods of a class outside the class declaration 
+- C++ allows us to define functions/methods of a class outside the class declaration with help of the scope resolution operator
 - Private variables and methods can only be used by functions inside the class
