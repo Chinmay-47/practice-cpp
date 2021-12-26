@@ -1267,6 +1267,7 @@ int main(){
 - We do not always need to define methods inside classes, we can simply declare them like function prototypes
 - C++ allows us to define functions/methods of a class outside the class declaration with help of the scope resolution operator
 - Private variables and methods can only be used by functions inside the class
+- By default variables defined are private members
 
 <br>
 <hr>
