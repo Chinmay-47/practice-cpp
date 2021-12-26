@@ -37,6 +37,7 @@ Feel free to try these programs out or read my notes about the topics:
 | Recursive Functions | [recursive_functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/recursive_functions.cpp) | [recursive_functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/recursive_functions.md) |
 | Function Overloading | [function_overloading.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_overloading.cpp) |[function_overloading.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_overloading.md) |
 | Classes | [classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/classes.cpp) | [classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/classes.md) |
+| Objects and Memory Allocation | [obj_mem_alloc.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/obj_mem_alloc.cpp) | [obj_mem_alloc.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/obj_mem_alloc.md) |
 
 
 <br>
