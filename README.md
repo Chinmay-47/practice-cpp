@@ -38,7 +38,7 @@ Feel free to try these programs out or read my notes about the topics:
 | Function Overloading | [function_overloading.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/function_overloading.cpp) |[function_overloading.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/function_overloading.md) |
 | Classes | [classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/classes.cpp) | [classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/classes.md) |
 | Arrays in Classes | [arrays_in_classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/arrays_in_classes.cpp) | [arrays_in_classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/arrays_in_classes.md) |
-| Static Members and Methods | [static_members.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/static_members.cpp) | [static_members.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/static_members.md) |
+| Static Members | [static_members.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/static_members.cpp) | [static_members.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/static_members.md) |
 
 
 <br>
