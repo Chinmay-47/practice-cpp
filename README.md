@@ -40,6 +40,7 @@ Feel free to try these programs out or read my notes about the topics:
 |27.| Arrays in Classes | [arrays_in_classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/arrays_in_classes.cpp) | [arrays_in_classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/arrays_in_classes.md) |
 |28.| Static Members | [static_members.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/static_members.cpp) | [static_members.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/static_members.md) |
 |29.| Static Methods | [static_methods.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/static_methods.cpp) | [static_methods.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/static_methods.md) |
+|30.| Array of Objects | [array_of_objects.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/array_of_objects.cpp) | [array_of_objects.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/array_of_objects.md) |
 
 
 <br>
