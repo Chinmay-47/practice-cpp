@@ -63,3 +63,5 @@ int main()
 - This declaration can be added in either the private or the public sections
 - Here the add_complex_nums functions can access the private members of objects of the Complex class as it is declared as a friend function in the Complex class
 - Friend functions cannot be accessed from objects of the class as they are not members of the class and are outside the scope of the class
+- Friend functions can also be functions/methods of other classes
+- However, we may have to handle compilation errors by using forward declarations and function prototypes
