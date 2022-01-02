@@ -1641,7 +1641,7 @@ int main()
 }
 ```
 
-- Friend functions are external functions that can access private members of a given class
+- Friend functions are external functions that can access private members of objects of a given class
 - This permission can be given to an external function from inside the class
 - A function can be made a friend function of a particular class by adding the friend keyword followed by the function signature inside that particular class
 - This declaration can be added in either the private or the public sections
