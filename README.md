@@ -42,6 +42,7 @@ Feel free to try these programs out or read my notes about the topics:
 |29.| Static Methods | [static_methods.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/static_methods.cpp) | [static_methods.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/static_methods.md) |
 |30.| Array of Objects | [array_of_objects.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/array_of_objects.cpp) | [array_of_objects.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/array_of_objects.md) |
 |31.| Objects as Arguments | [obj_as_arg.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/obj_as_arg.cpp) | [obj_as_arg.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/obj_as_arg.md) |
+|32.| Friend Functions | [friend_functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/friend_functions.cpp) | [friend_functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/friend_functions.md) |
 
 
 <br>
