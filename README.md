@@ -44,6 +44,7 @@ Feel free to try these programs out or read my notes about the topics:
 |31.| Objects as Arguments | [obj_as_arg.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/obj_as_arg.cpp) | [obj_as_arg.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/obj_as_arg.md) |
 |32.| Friend Functions | [friend_functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/friend_functions.cpp) | [friend_functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/friend_functions.md) |
 |33.| Friend Classes | [friend_classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/friend_classes.cpp) | [friend_classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/friend_classes.md) |
+|34.| Constructors | [constructors.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/constructors.cpp) | [constructors.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/constructors.md) |
 
 
 <br>
