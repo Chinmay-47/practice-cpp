@@ -45,6 +45,7 @@ Feel free to try these programs out or read my notes about the topics:
 |32.| Friend Functions | [friend_functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/friend_functions.cpp) | [friend_functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/friend_functions.md) |
 |33.| Friend Classes | [friend_classes.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/friend_classes.cpp) | [friend_classes.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/friend_classes.md) |
 |34.| Constructors | [constructors.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/constructors.cpp) | [constructors.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/constructors.md) |
+|35.| Parameterized Constructors | [param_constructors.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/param_constructors.cpp) | [param_constructors.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/param_constructors.md) |
 
 
 <br>
