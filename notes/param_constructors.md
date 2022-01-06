@@ -39,5 +39,6 @@ int main()
 ```
 
 - Constructors can have arguments
+- Constructors can also have default argument values
 - We cannot refer to their addresses
 - We can invoke parameterized constructors using the instance object variable or using the class name
