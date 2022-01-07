@@ -9,7 +9,7 @@ class Complex
 public:
     Complex(Complex &obj)
     {
-        cout << "Copy Contructor called..." << endl;
+        cout << "Copy Constructor called..." << endl;
         real = obj.real;
         imaginary = obj.imaginary;
     }
