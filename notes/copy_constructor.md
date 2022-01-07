@@ -14,7 +14,7 @@ class Complex
 public:
     Complex(Complex &obj)
     {
-        cout << "Copy Contructor called..." << endl;
+        cout << "Copy Constructor called..." << endl;
         real = obj.real;
         imaginary = obj.imaginary;
     }
@@ -44,4 +44,4 @@ int main()
 
 - Copy constructor is a constructor that can create a copy an object
 - We pass the object to be copied by reference to the copy constructor
-- When no user defined copy constructor is found, the compiler assigns a default copy contructor to the class
+- When no user defined copy constructor is found, the compiler assigns a default copy constructor to the class
