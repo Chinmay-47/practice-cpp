@@ -48,6 +48,7 @@ Feel free to try these programs out or read my notes about the topics:
 |35.| Parameterized Constructors | [param_constructors.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/param_constructors.cpp) | [param_constructors.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/param_constructors.md) |
 |36.| Constructor Overloading | [constructor_overloading.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/constructor_overloading.cpp) | [constructor_overloading.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/constructor_overloading.md) |
 |37.| Copy Constructor | [copy_constructor.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/copy_constructor.cpp) | [copy_constructor.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/copy_constructor.md) |
+|38.| Destructors | [destructors.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/destructors.cpp) | [destructors.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/destructors.md) |
 
 
 <br>
