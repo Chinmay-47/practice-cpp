@@ -37,6 +37,7 @@ int main()
     return 0;
 }
 ```
+
 - A Destructor is a member function that is invoked automatically when the object goes out of scope or is explicitly destroyed by a call to delete
 - Destructors neither take any arguments nor return any values
 - A Destructor has the same name as the class, preceded by a tilde (~)
