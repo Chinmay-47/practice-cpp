@@ -1945,7 +1945,7 @@ int main()
 ```
 
 - Copy constructor is a constructor that can create a copy an object
-- We can pass the object to be copied by reference to the copy constructor
+- We pass the object to be copied by reference to the copy constructor
 - When no user defined copy constructor is found, the compiler assigns a default copy constructor to the class
 
 <br>
