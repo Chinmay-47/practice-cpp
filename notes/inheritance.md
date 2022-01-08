@@ -23,23 +23,25 @@ public:
 class Programmer : Employee
 {
 public:
+    int language_code;
     Programmer(int id)
     {
         emp_id = id;
         salary = 70000.0;
+        language_code = 7;
     }
-    int language_code = 7;
 };
 
 class Manager : public Employee
 {
 public:
+    int team_code;
     Manager(int id)
     {
         emp_id = id;
         salary = 80000.0;
+        team_code = 2;
     }
-    int team_code = 2;
 };
 
 int main()
