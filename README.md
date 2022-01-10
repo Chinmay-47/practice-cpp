@@ -52,6 +52,7 @@ Feel free to try these programs out or read my notes about the topics:
 |39.| Inheritance | [inheritance.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/inheritance.cpp) | [inheritance.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/inheritance.md) |
 |40.| Protected Members | [protected_members.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/protected_members.cpp) | [protected_members.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/protected_members.md) |
 |41.| Multi Level Inheritance | [multi_level_inheritance.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/multi_level_inheritance.cpp) | [multi_level_inheritance.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/multi_level_inheritance.md) |
+|42.| Multiple Inheritance | [multiple_inheritance.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/multiple_inheritance.cpp) | [multiple_inheritance.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/multiple_inheritance.md) |
 
 
 <br>
