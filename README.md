@@ -58,7 +58,8 @@ Feel free to try these programs out or read my notes about the topics:
 <br>
 
 ## Resources
-I would like to thank them for the content and highly recommend checking them out:
+I would highly recommend checking them out:
+
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
