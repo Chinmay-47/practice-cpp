@@ -56,6 +56,7 @@ Feel free to try these programs out or read my notes about the topics:
 |43.| Ambiguity Resolution | [ambiguity_resolution.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/ambiguity_resolution.cpp) | [ambiguity_resolution.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/ambiguity_resolution.md) |
 |44.| Virtual Base Classes | [virtual_base_class.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/virtual_base_class.cpp) | [virtual_base_class.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/virtual_base_class.md) |
 |45.| New and Delete Keywords | [new_and_delete.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/new_and_delete.cpp) | [new_and_delete.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/new_and_delete.md) |
+|46.| Object Pointers and Arrow Operator | [obj_ptr_arrow.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/obj_ptr_arrow.cpp) | [obj_ptr_arrow.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/obj_ptr_arrow.md) |
 
 
 <br>
