@@ -1,4 +1,4 @@
-### Object Pointer and Arrow Operator
+### Object Pointers and Arrow Operator
 
 <br>
 
