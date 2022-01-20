@@ -59,6 +59,7 @@ Feel free to try these programs out or read my notes about the topics:
 |46.| Object Pointers and Arrow Operator | [obj_ptr_arrow.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/obj_ptr_arrow.cpp) | [obj_ptr_arrow.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/obj_ptr_arrow.md) |
 |47.| this Keyword | [this_keyword.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/this_keyword.cpp) | [this_keyword.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/this_keyword.md) |
 |48.| Pointers to Derived Classes | [ptr_derived_class.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/ptr_derived_class.cpp) | [ptr_derived_class.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/ptr_derived_class.md) |
+|49.| Virtual Functions | [virtual_functions.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/virtual_functions.cpp) | [virtual_functions.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/virtual_functions.md) |
 
 
 <br>
