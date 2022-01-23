@@ -40,7 +40,7 @@ int main()
 
 - Pure virtual functions are virtual functions that compulsorily need to be overridden in derived classes
 - Pure virtual functions are like abstract methods in Python
-- Virtual functions can be made pure virtual by adding "= 0" at the end, during their declaration
+- Virtual functions can be made pure virtual by adding "= 0" at the end of their declaration
 - Declaring virtual functions in a class makes the class an abstract base class
 - An abstract base class cannot be instantiated
 - It can only serve as a bueprint for classes deriving from it
