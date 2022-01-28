@@ -12,6 +12,7 @@ int main(){
     // Open file using constructor and write into it
     // ofstream out("files.txt");
     // out << var1;
+    // out.close();
 
     // Open file using constructor and read from it
     ifstream in("files.txt");
@@ -19,6 +20,8 @@ int main(){
 
     getline(in, var2);  // Reads first line
     cout << "content in files.txt: " << var2 << endl;
+
+    in.close();
 
     return 0;
 }
