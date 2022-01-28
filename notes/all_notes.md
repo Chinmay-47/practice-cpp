@@ -2853,6 +2853,7 @@ int main(){
 - We need to include fstream in our program to work with files
 - fstream provides fstreambase, ifstream and ofstream classes to work with files
 - Files can be opened using constructors or open() methods of the class
+- We can read and write from the same file in the same program but we have to close the stream currently being used and open a new stream
 
 <br>
 <hr>
