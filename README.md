@@ -63,6 +63,7 @@ Feel free to try these programs out or read my notes about the topics:
 |50.| Abstract Base Classes and Pure Virtual Functions | [abc_pure_virtual.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/abc_pure_virtual.cpp) | [abc_pure_virtual.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/abc_pure_virtual.md) |
 |51.| I/O with Files | [files.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/files.cpp) | [files.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/files.md) |
 |52.| Templates | [templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/templates.cpp) | [templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/templates.md) |
+|53.| Templates with multiple parameters | [multi_param_templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/templates.cpp) | [multi_param_templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/templates.md) |
 
 
 <br>
