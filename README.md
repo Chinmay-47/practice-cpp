@@ -64,6 +64,8 @@ Feel free to try these programs out or read my notes about the topics:
 |51.| I/O with Files | [files.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/files.cpp) | [files.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/files.md) |
 |52.| Templates | [templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/templates.cpp) | [templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/templates.md) |
 |53.| Templates with Multiple Parameters | [multi_param_templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/templates.cpp) | [multi_param_templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/templates.md) |
+|54.| Function Templates | [func_templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/func_templates.cpp) | [func_templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/func_templates.md) |
+
 
 
 <br>
