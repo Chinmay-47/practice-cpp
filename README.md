@@ -66,6 +66,7 @@ Feel free to try these programs out or read my notes about the topics:
 |53.| Templates with Multiple Parameters | [multi_param_templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/templates.cpp) | [multi_param_templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/templates.md) |
 |54.| Function Templates | [func_templates.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/func_templates.cpp) | [func_templates.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/func_templates.md) |
 |55.| Vectors in STL | [vectors_stl.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/vectors_stl.cpp) | [vectors_stl.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/vectors_stl.md) |
+|56.| Lists in STL | [lists_stl.cpp](https://github.com/Chinmay-47/practice-cpp/blob/main/src/lists_stl.cpp) | [lists_stl.md](https://github.com/Chinmay-47/practice-cpp/blob/main/notes/lists_stl.md) |
 
 
 
