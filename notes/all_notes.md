@@ -3127,7 +3127,7 @@ int main()
 ```
 
 - Lists are container templates present in the standard template library
-- We can define the data type of the vector since it is a template
+- We can define the data type of the list since it is a template
 - They are library implementations of a doubly linked list
 - They have useful member functions to add/delete elements, iterate, sort and much more
 
