@@ -79,4 +79,5 @@ I would highly recommend checking them out:
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [cppreference](https://www.cppreference.com/)
+- [Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
