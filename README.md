@@ -78,4 +78,5 @@ I would highly recommend checking them out:
 
 - [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [cppreference](https://www.cppreference.com/)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
